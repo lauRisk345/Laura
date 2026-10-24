@@ -1,0 +1,6 @@
+{
+  "name": "NexusPlay - Multijugador en Línea y Chat",
+  "description": "Plataforma de juegos multijugador en tiempo real con salas personalizadas, chat integrado con reacciones y modo Batalla de Matriz de Confusión.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
